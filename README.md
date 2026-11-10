@@ -35,7 +35,7 @@ Também faço páginas para negócios do interior gaúcho: oficinas, salões, co
 </p>
 
 - **Solved Scale**: agência que fundei com dois sócios para ajudar empresas a vender mais, com site, automação e tráfego. Fiz o site, com a marca e a animação do logo.
-- **[Take Um](https://github.com/MatheusMattos-Dev/take-um)**: landing de vendas de uma produtora de vídeos verticais, em Next.js 16, Tailwind CSS 4 e Motion.
+- **Take Um**: landing de vendas de uma produtora de vídeos verticais, em Next.js 16, Tailwind CSS 4 e Motion.
 - **Avaliação Preventiva em Saúde**: cruza o perfil do paciente com diretrizes clínicas oficiais e recomenda exames, vacinas e hábitos. Laravel, Inertia.js e MySQL.
 - **Prospect.ai** *(em desenvolvimento)*: lê as conversas do WhatsApp Business, classifica o interesse com IA e monta uma página para cada negócio. Nada sai sem aprovação humana.
 
