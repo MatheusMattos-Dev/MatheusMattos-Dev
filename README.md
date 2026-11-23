@@ -20,7 +20,7 @@ Também faço páginas para negócios do interior gaúcho: oficinas, salões, co
 </p>
 <p>
   <a href="https://val-mega-hair-demo.vercel.app/"><img src="assets/cards/val.webp" width="49%" alt="Val Mega Hair, salão de beleza em São Borja"></a>
-  <a href="https://matheusdev-lovat.vercel.app/"><img src="assets/cards/mais.webp" width="49%" alt="26 páginas no ar em seis cidades do RS. Ver todas no portfólio"></a>
+  <a href="https://matheusdev-lovat.vercel.app/"><img src="assets/cards/mais.webp" width="49%" alt="43 páginas no ar em oito cidades do RS. Ver todas no portfólio"></a>
 </p>
 
 ## Projetos
